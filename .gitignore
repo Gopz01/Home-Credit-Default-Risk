@@ -1,0 +1,12 @@
+# Ignore Data Files
+*.csv
+*.parquet
+*.zip
+*.gz
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore Environment configs (if any)
+.env
