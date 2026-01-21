@@ -55,8 +55,3 @@ Beyond the technical implementation, this repository includes a **Strategic Busi
 * **[10_Business_Impact.ipynb](notebooks/10_Business_Impact.ipynb):** Financial simulation, stress testing, and profit-curve optimization.
 
 ---
-
-## 💻 How to Run
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Home-Credit-Default-Risk.git](https://github.com/YOUR_USERNAME/Home-Credit-Default-Risk.git)
